@@ -2,7 +2,7 @@
 My first repository
 
 
-#H1 **My favorite Series/Movies**
+ **My favorite Series/Movies**
 1. MR Queen
 2. Legend of the blue sea
 3. Love in the moonlight
